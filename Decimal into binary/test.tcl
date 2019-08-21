@@ -1,4 +1,4 @@
-puts "please enter number";
+puts "please enter the number";
 set data [gets stdin];
 set index 1;
 
